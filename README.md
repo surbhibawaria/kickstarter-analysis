@@ -34,16 +34,21 @@ To analyze outcomes based on goals, percentages of successful, failed, and cance
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95826875/146666721-549acb16-1402-4f22-a79b-989c4f016f72.png)
 
 
-After analyzing the data, following conclusions can be drawn.
+After analyzing the data of _theater outcomes by launch date_ , following conclusions can be drawn.
 
-1. Based launch date, the campaigns have higher success rate trends in the months of May, June, July and lower success rate trends in January, March, September, November. Therfore, starting a _theatre_ campaign in May, June, July suggests the highest success rate over the other months of the year.
-2. The onth of December seems to have almost similar outcomes for both the success and the failure of the campaign.
+1. Based launch date, the campaigns have higher success rate trends in the months of May, June, July and lower success rate trends in January, March, September, November. Hence, starting a _theatre_ campaign in May, June, July suggests the highest success rate over the other months of the year.
+2. The month of December have lowest success rate and seems to have similar outcomes for both the success and the failure of the campaigns.
 
 ### Conclusions about the Outcomes based on Goals
 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95826875/146667358-f2c13d33-7e72-47c2-8e63-b0336344857f.png)
 
+After analyzing the data of _outcomes based on goals_, the success rate of plays seems to be 75% if the goal is $1000, it is 60% if the goal is $5000. But, if the goal is increased to say upto $19000 to $20000 the success rate will drop to 50%. And with the further higher campagin goal range of $25000, $45000 or above there is higher chances of campaigns to be a failure. Therefore, it can be concluded that theatre play campaign might have a higher chance for becoming a success if the campaign goals are kept as limited as possible.
 
+### Limitations
+Although the dataset represented good contribution to analysis, but there are limitations to the kickstarter data. There was no recent data available for the past few years which could have helped with a better analysis of the current trends. Additional data from the social media platforms and public reviews would have also helped. Categorizing the theater plays even further like Romance, Thriller, Comedy etc, would have helped in a deeper analysis.
+
+### Recommendation
 
 
