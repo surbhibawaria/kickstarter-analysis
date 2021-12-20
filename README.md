@@ -110,9 +110,9 @@ Also, the data is sourced from multiple countries with their corresponding curre
 
 For a better analysis of data, additional tables and graphs would have been more helpful. Like, outcomes based on _staff_pick_ can be analyzed to visualize if that affects the success or failure rates of the campaigns. 
 
-Another one could be the outcomes based on the _country_ or _backers_count_. Would these affect the success and failure of the campaign? Would backers count affect the outcomes? Is there any country specific trend which can contribute to success or failure of the campaigns? 
+Another one could be the outcomes based on the _country_ to determine if there is any country specific trend which can contribute to success or failure of the campaigns. Or if the _backers_count_ would have affected the success and failure of the campaign.
 
-Creating a table and graph visualizing average donation across campaign outcomes.
+A table and graph visualizing average donation across campaign outcomes.
 
 Box plot would have been created for successfully funded plays.
 
